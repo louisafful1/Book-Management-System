@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1661877206 source:d:\c++\bookms\src\base.cpp
+	"Base.h"
+	"windows.h"
+	<iomanip>
+	<fstream>
+	<bits/stdc++.h>
+	<iostream>
+	<time.h>
+	<string>
+
+1661875129 d:\c++\bookms\include\base.h
+	<iostream>
+	<fstream>
+	<time.h>
+
+1661354388 source:d:\c++\bookms\src\display.cpp
+	"Display.h"
+	"windows.h"
+	<iomanip>
+	<iostream>
+
+1661334851 d:\c++\bookms\include\display.h
+	<Base.h>
+
+1661353312 source:d:\c++\bookms\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<Display.h>
+
+1661353312 source:c:\users\sboak\desktop\bookms\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<Display.h>
+
+1661334851 c:\users\sboak\desktop\bookms\include\display.h
+	<Base.h>
+
+1661875129 c:\users\sboak\desktop\bookms\include\base.h
+	<iostream>
+	<fstream>
+	<time.h>
+
+1661877206 source:c:\users\sboak\desktop\bookms\src\base.cpp
+	"Base.h"
+	"windows.h"
+	<iomanip>
+	<fstream>
+	<bits/stdc++.h>
+	<iostream>
+	<time.h>
+	<string>
+
+1661354388 source:c:\users\sboak\desktop\bookms\src\display.cpp
+	"Display.h"
+	"windows.h"
+	<iomanip>
+	<iostream>
+
+1661972332 source:c:\users\samuel\desktop\bookms\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<Display.h>
+
+1661972332 c:\users\samuel\desktop\bookms\include\display.h
+	<Base.h>
+
+1661972332 c:\users\samuel\desktop\bookms\include\base.h
+	<iostream>
+	<fstream>
+	<time.h>
+
+1661972333 source:c:\users\samuel\desktop\bookms\src\base.cpp
+	"Base.h"
+	"windows.h"
+	<iomanip>
+	<fstream>
+	<bits/stdc++.h>
+	<iostream>
+	<time.h>
+	<string>
+
+1661972333 source:c:\users\samuel\desktop\bookms\src\display.cpp
+	"Display.h"
+	"windows.h"
+	<iomanip>
+	<iostream>
+
+1661972332 source:c:\users\lawson\desktop\bookms\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<Display.h>
+
+1661972332 c:\users\lawson\desktop\bookms\include\display.h
+	<Base.h>
+
+1661972332 c:\users\lawson\desktop\bookms\include\base.h
+	<iostream>
+	<fstream>
+	<time.h>
+
+1690021452 source:c:\users\lawson\desktop\bookms\src\base.cpp
+	"Base.h"
+	"windows.h"
+	<iomanip>
+	<fstream>
+	<bits/stdc++.h>
+	<iostream>
+	<time.h>
+	<string>
+
+1689681043 source:c:\users\lawson\desktop\bookms\src\display.cpp
+	"Display.h"
+	"windows.h"
+	<iomanip>
+	<iostream>
+
